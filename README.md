@@ -178,9 +178,9 @@ BUSINESS QUESTION
 <div align="center">
 
 ```text
-                    CAREER ENGINE
-                         │
-                         ▼
+CAREER ENGINE
+│
+▼
 ┌──────────────────────────────────────────────┐
 │  🟢 2026                                     │
 │  DATA ANALYTICS INTERN                       │
@@ -190,8 +190,8 @@ BUSINESS QUESTION
 │  RFM • Segmentation • Statistics             │
 │  Power BI • Data Storytelling                │
 └──────────────────────┬───────────────────────┘
-                       │
-                       ▼
+│
+▼
 ┌──────────────────────────────────────────────┐
 │  🔵 2026                                     │
 │  DATA ANALYTICS INTERN                       │
@@ -200,8 +200,8 @@ BUSINESS QUESTION
 │  Data Analytics • Practical Projects         │
 │  Business Insights • Reporting               │
 └──────────────────────┬───────────────────────┘
-                       │
-                       ▼
+│
+▼
 ┌──────────────────────────────────────────────┐
 │  🔷 2026                                     │
 │  IBM POWERED DATA ANALYTICS WITH AI          │
@@ -528,31 +528,31 @@ BUSINESS STRATEGY
         ┌─────────────────────┐
         │   BUSINESS QUESTION │
         └──────────┬──────────┘
-                   ↓
+        ↓
         ┌─────────────────────┐
         │        DATA         │
         └──────────┬──────────┘
-                   ↓
+        ↓
         ┌─────────────────────┐
         │ CLEAN + VALIDATE    │
         └──────────┬──────────┘
-                   ↓
+        ↓
         ┌─────────────────────┐
         │         EDA         │
         └──────────┬──────────┘
-                   ↓
+        ↓
         ┌─────────────────────┐
         │ SQL + PYTHON + STATS│
         └──────────┬──────────┘
-                   ↓
+        ↓
         ┌─────────────────────┐
         │ DASHBOARD / REPORT  │
         └──────────┬──────────┘
-                   ↓
+        ↓
         ┌─────────────────────┐
         │       INSIGHT       │
         └──────────┬──────────┘
-                   ↓
+        ↓
         ┌─────────────────────┐
         │   BUSINESS ACTION   │
         └─────────────────────┘
