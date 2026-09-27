@@ -48,10 +48,10 @@
 ║  [POWER BI]   ██████████████████░░░░  BI / DASHBOARDS      ║
 ║  [EXCEL]      ██████████████████░░░░  REPORTING            ║
 ║  [STATISTICS] █████████████████░░░░░  INFERENCE            ║
-║  [TABLEAU]    ████████████████░░░░░░  VISUALIZATION       ║
+║  [TABLEAU]    ████████████████░░░░░░  VISUALIZATION        ║
 ║                                                            ║
-║  SYSTEM: ONLINE                                             ║
-║  MODE: BUILDING                                             ║
+║  SYSTEM: ONLINE                                            ║
+║  MODE: BUILDING                                            ║
 ║  MISSION: TURN DATA INTO ACTIONABLE INSIGHTS               ║
 ║                                                            ║
 ╚════════════════════════════════════════════════════════════╝
@@ -182,7 +182,7 @@ BUSINESS QUESTION
                          │
                          ▼
 ┌──────────────────────────────────────────────┐
-│  🟢 2026                                     │
+│  🟢 2026                                    │
 │  DATA ANALYTICS INTERN                       │
 │  ApexPlanet Software Pvt. Ltd.               │
 │                                              │
@@ -463,7 +463,7 @@ BUSINESS STRATEGY
 ║  04  TRANSFORM    → Build analysis-ready data          ║
 ║  05  EXPLORE      → Find patterns & relationships      ║
 ║  06  ANALYZE      → Apply SQL + statistics + Python    ║
-║  07  VISUALIZE    → Build dashboards & reports        ║
+║  07  VISUALIZE    → Build dashboards & reports         ║
 ║  08  COMMUNICATE   → Explain insights clearly          ║
 ║  09  RECOMMEND    → Convert insights into actions      ║
 ║                                                        ║
@@ -501,19 +501,19 @@ BUSINESS STRATEGY
 │ 📊 DELOITTE                                        │
 │    Data Analytics — Forage                         │
 ├────────────────────────────────────────────────────┤
-│ 🤖 TATA                                             │
-│    GenAI Powered Data Analytics — Forage            │
+│ 🤖 TATA                                            │
+│    GenAI Powered Data Analytics — Forage           │
 ├────────────────────────────────────────────────────┤
-│ 📈 TATA                                             │
-│    Data Visualisation — Forage                      │
+│ 📈 TATA                                            │
+│    Data Visualisation — Forage                     │
 ├────────────────────────────────────────────────────┤
 │ 📊 QUANTIUM                                        │
 │    Data Analytics — Forage                         │
 ├────────────────────────────────────────────────────┤
-│ 🧠 BCG X                                            │
+│ 🧠 BCG X                                           │
 │    Introduction to Data for Decision Makers        │
 ├────────────────────────────────────────────────────┤
-│ 🔬 BCG X                                            │
+│ 🔬 BCG X                                           │
 │    Data Science Job Simulation                     │
 └────────────────────────────────────────────────────┘
 ```
