@@ -182,7 +182,7 @@ BUSINESS QUESTION
                          │
                          ▼
 ┌──────────────────────────────────────────────┐
-│  🟢 2026                                    │
+│  🟢 2026                                     │
 │  DATA ANALYTICS INTERN                       │
 │  ApexPlanet Software Pvt. Ltd.               │
 │                                              │
